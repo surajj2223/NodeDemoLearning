@@ -1,0 +1,15 @@
+{
+  "name": "mydemojsapp",
+  "version": "1.0.0",
+  "description": "learning demo ap",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "suraj",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  }
+}
